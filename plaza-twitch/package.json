@@ -1,5 +1,5 @@
 {
-  "name": "grm-twitch",
+  "name": "plaza-twitch",
   "version": "1.0.0",
   "description": "Twitch live integration for Fivem",
   "main": "server/twitch.js",
